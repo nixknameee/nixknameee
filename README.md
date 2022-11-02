@@ -15,11 +15,11 @@ I am a Software Engieenr👨‍💻 & Electrical Engineer⚡ student studying So
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
  
+  
  
- 
- 
- 
- 
+  
+  
+  
 </p>
 
  <a href="https://www.instagram.com/nk.gjk/">
