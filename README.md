@@ -1,14 +1,10 @@
 Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 
-
-    <title>Der Titel des Dokuments</title>
     <style>
       body {background-color:#e6ebef;}
       h2 {background-color:#8ebf42;}
       p {background-color:#1c87c9;}
     </style>
-    <h2>Eine Überschrift mit grünem Hintergrund.</h2>
-    <p>Ein Absatz mit blauem Hintergrund.</p>
 
     
 <a href="https://www.42vienna.com/bewerbung/?gclid=Cj0KCQjwqoibBhDUARIsAH2OpWg4u53DRd-TsD7nheSeyPgLNdj1NF3xg8bbXBECb1wNGZy8ne4MMvsaAo1AEALw_wcB">
