@@ -27,10 +27,10 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
  <a href="https://www.instagram.com/nk.gjk/">
   <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true"
-       width="250" height="250" target="_blank" hspace="20">
+       width="300" height="300" target="_blank" hspace="20">
  <a/>
   
  <a href="https://www.linkedin.com/in/nikoll-gjokaj-929249240/">
   <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true"
-       width="250" height="250" target="_blank"> 
+       width="300" height="300" target="_blank"> 
  <a/>
