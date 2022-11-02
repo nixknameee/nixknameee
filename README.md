@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
 
-<img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true" width="400" height="400"hspace="20" >
-<img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true" width="400" height="400"> 
+<img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true" width="400" height="400" hspace="20" > <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true" width="400" height="400"> 
