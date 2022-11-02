@@ -26,11 +26,11 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 </p>
 
  <a href="https://www.instagram.com/nk.gjk/">
-  <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true"
+  <img src="https://github.com/nixknameee/nixknameee/blob/main/nk.gjk_qr.png?raw=true"
        width="350" height="350" target="_blank" hspace="20">
  <a/>
   
  <a href="https://www.linkedin.com/in/nikoll-gjokaj-929249240/">
-  <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true"
+  <img src="https://github.com/nixknameee/nixknameee/blob/main/LinkedIn.jpeg?raw=true"
        width="350" height="350" target="_blank"> 
  <a/>
