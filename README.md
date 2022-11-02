@@ -7,13 +7,15 @@ Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 
 
 <p>
-I am a Software Engieenr👨‍💻 & Electrical Engineer⚡ student studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
+I'm a Software Engineerr👨‍💻 & Electrical Engineer⚡ student.
+I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
 - 🔭 I’m currently working on my own printf() function.
 - 🌱 I’m currently learning C
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
+ 
  
   
  
