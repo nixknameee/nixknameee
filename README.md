@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 42 in binary is 101010
 
 
-<a  href="https://www.instagram.com/nk.gjk/">
+ <a href="https://www.instagram.com/nk.gjk/">
   <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true"
        width="400" height="400" target="_blank" hspace="20">
- <a/>
  <href="https://www.linkedin.com/in/nikoll-gjokaj-929249240/">
   <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true"
        width="400" height="400" target="_blank"> 
