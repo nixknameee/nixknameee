@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 
-<!--
-**nixknameee/nixknameee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src= "https://media-exp1.licdn.com/dms/image/D4D16AQENFYfzitZ4_g/profile-displaybackgroundimage-shrink_350_1400/0/1665241654995?e=1672876800&v=beta&t=jYtSVKTP43QRlCztOYiLnT6ALwj0wYm73sv4N2UzlCk">
+
+
+I am a Software Engieenr👨‍💻 & Electrical Engineer⚡ student studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own printf() function.
+- 🌱 I’m currently learning C
+- 💬 Ask me about anything.
+- ⚡ Fun fact: 42 in binary is 101010
+
+<img src="" width="400" height="400">
