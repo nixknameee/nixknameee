@@ -6,7 +6,6 @@ Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 
 I am a Software Engieenr👨‍💻 & Electrical Engineer⚡ student studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own printf() function.
 - 🌱 I’m currently learning C
