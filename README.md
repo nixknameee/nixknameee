@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
 
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
 
+<a  href="https://www.instagram.com/nk.gjk/">
+                                            <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true"
+                                                                                                      width="400" height="400" target="_blank" hspace="20">
 
-<a <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/nk.gjk_qr.png?raw=true" width="400" height="400" target="_blank" hspace="20">
-<img src = "https://www.instagram.com/nk.gjk/">
 </a>
 <img src="https://github.com/nixknameee/Website/blob/main/Grafiken/LinkedIn.jpeg?raw=true" width="400" height="400"> 
