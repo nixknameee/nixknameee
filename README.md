@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
-<a href="http://placekitten.com/100/100" target="_blank">
-  <img src="http://placekitten.com/100/100">
-</a>
-
-
 
 
 
