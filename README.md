@@ -13,7 +13,7 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
 - 🔭 I’m currently working on my own Virtual Maschine.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning C
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
  
