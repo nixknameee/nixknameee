@@ -12,8 +12,8 @@ I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
 I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
-- 🔭 I’m currently working on my own printf() function.
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on my own Virtual Maschine.
+- 🌱 I’m currently learning 
 - 💬 Ask me about anything.
 - ⚡ Fun fact: 42 in binary is 101010
  
