@@ -12,8 +12,8 @@ I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
 I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
-- 🔭 I’m currently working on my own Virtual Maschine.
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on the philopsohers dinning problem.
+- 🌱 I’m currently learning C and python
 - 💬 Ask me about anything.
 
  
