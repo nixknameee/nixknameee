@@ -13,8 +13,8 @@ I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
 I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
-- 🔭 I’m currently working on the philopsohers dinning problem.
-- 🌱 I’m currently learning C and python
+- 🔭 I’m currently working on the on my own bash and planing my StartUp Idea.
+- 🌱 I’m currently learning C and python.
 - 💬 Ask me about anything.
 
   
