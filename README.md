@@ -10,6 +10,8 @@ Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 </div>
 
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <p>
 I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
 I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
