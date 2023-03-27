@@ -23,40 +23,4 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
   
   
   
-</p>
-on:
-  schedule:
-    - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
-      - main
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v2
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
-        fi
- <a href="https://www.instagram.com/nk.gjk/">
-  <img src="https://github.com/nixknameee/nixknameee/blob/main/nk.gjk_qr.png?raw=true"
-       width="350" height="350" target="_blank" hspace="20">
- <a/>
-  
- <a href="https://www.linkedin.com/in/nikoll-gjokaj-929249240/">
-  <img src="https://github.com/nixknameee/nixknameee/blob/main/LinkedIn.jpeg?raw=true"
-       width="350" height="350" target="_blank"> 
- <a/>
+
