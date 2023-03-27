@@ -1,4 +1,4 @@
-Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
+
 
 
 
@@ -7,7 +7,6 @@ Hi, I'm Nikoll  👋🏻 🧑🏻‍💻
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 <p>
 I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
