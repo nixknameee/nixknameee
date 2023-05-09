@@ -14,12 +14,10 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 - 🌱 I’m currently learning C and python.
 - 💬 Ask me about anything.
 
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4xz5mhUSGWcERVXI7N0g9Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  
-  
-  
-  
-  
+
+<iframe src="https://open.spotify.com/embed/playlist/4xz5mhUSGWcERVXI7N0g9Z?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    
   
   
   
