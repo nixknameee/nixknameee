@@ -10,17 +10,9 @@ I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
 I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 
 
-- 🔭 I’m currently working on the on my own bash and planing my StartUp Idea.
+- 🔭 I’m currently working on the on my Cube3D Game and my StarUp Idea.
 - 🌱 I’m currently learning C and python.
 - 💬 Ask me about anything.
-
-
-<iframe src="https://open.spotify.com/embed/playlist/4xz5mhUSGWcERVXI7N0g9Z?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-    
-  
-  
-  
   
   
 ## 🌐 Socials:
