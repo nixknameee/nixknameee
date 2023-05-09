@@ -14,6 +14,17 @@ I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
 - 🌱 I’m currently learning C and python.
 - 💬 Ask me about anything.
 
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4xz5mhUSGWcERVXI7N0g9Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nikoll#3637) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nk.gjk?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoll-gjokaj-929249240/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikollgjokaj) 
 
