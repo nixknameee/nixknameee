@@ -6,8 +6,7 @@
 
  
 <p>
-I'm a Software Engineer👨‍💻 & Electrical Engineer⚡ student.
-I'm studying Software Engeeniring at the Campus of 42 Ecole in Vienna.
+I'm studying Software Engineering at the Campus of 42 Ecole in Vienna.
 
 
 - 🔭 I’m currently working on 
