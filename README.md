@@ -6,6 +6,9 @@
 
  
 <p>
+
+
+  
 I'm studying Software Engineering at the Campus of 42 Ecole in Vienna.
   
   
