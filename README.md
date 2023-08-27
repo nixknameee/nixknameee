@@ -7,11 +7,6 @@
  
 <p>
 I'm studying Software Engineering at the Campus of 42 Ecole in Vienna.
-
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning C and python.
-- 💬 Ask me about anything.
   
   
 ## 🌐 Socials:
